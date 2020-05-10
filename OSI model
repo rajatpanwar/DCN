@@ -1,0 +1,18 @@
+OSI stands for Open System Interconnection is a reference model that describes how information from a software application in one computer moves through a physical medium to the software application in another computer.
+The full form of this model is Open system interconnection.
+OSI model consists the seven layer each layer performs a particular function.
+OSI model was developed by the International Organization for Standardization (ISO) in 1984.
+The OSI model is divided into two layers: upper layers and lower layers.
+The upper layer of the OSI model mainly deals with the application related issues.
+The lower layer of the OSI model deals with the data transport issues. The data link layer and the physical layer are implemented in hardware and software.
+
+
+ there are seven OSI Layer:
+ Application
+ presentation
+ Session
+ Transport
+ Network
+ Data-link
+ Physical
+ 
