@@ -17,3 +17,18 @@
 
 <------------MAN(metropolitan area network)------------------->
 
+
+1. A metropolitan area network is a network that covers a larger geographic area by interconnecting a different LAN to form a larger network.
+2. Government agencies use MAN to connect to the citizens and private industries.
+3. In MAN, various LANs are connected to each other through a telephone exchange line.
+4. The most widely used protocols in MAN are RS-232, Frame Relay, ATM, ISDN, OC-3, ADSL, etc.
+5. It has a higher range than Local Area Network(LAN).
+
+<--------------------PAN(personal area network)-------------------->
+
+1. Personal Area Network is a network arranged within an individual person, typically within a range of 10 meters.
+2. Personal Area Network is used for connecting the computer devices of personal use is known as Personal Area Network.
+3. Thomas Zimmerman was the first research scientist to bring the idea of the Personal Area Network.
+4. Personal Area Network covers an area of 30 feet.
+5 .Personal computer devices that are used to develop the personal area network are the laptop, mobile phones, media player and play stations.
+
