@@ -7,7 +7,7 @@ The upper layer of the OSI model mainly deals with the application related issue
 The lower layer of the OSI model deals with the data transport issues. The data link layer and the physical layer are implemented in hardware and software.
 
 
- there are seven OSI Layer:
+ <<---------------there are seven OSI Layer---------------------->>:
  Application
  presentation
  Session
